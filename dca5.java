@@ -16,7 +16,6 @@ class dca5{
 			else{
 				result.add(sum);
 				sum=arr[i+1];
-				continue;
 			}
 			
 			
